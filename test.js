@@ -19,5 +19,6 @@ describe('Accesing Signalfx home page', function () {
         browser.sleep(10000);
         var title = browser.getTitle();
         console.log(title);
+        console.log(title);
     });
 });
